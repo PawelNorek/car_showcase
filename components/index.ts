@@ -5,5 +5,7 @@ import Navbar from './Navbar'
 import SearchBar from './SearchBar'
 import CustomFilter from './CustomFilter'
 import SearchManufactuer from './SearchManufacturer'
+import CarCard from './CarCard'
+import CarDetails from './CarDetails'
 
-export { Hero, CustomButton, Navbar, Footer, SearchBar, CustomFilter, SearchManufactuer }
+export { Hero, CustomButton, Navbar, Footer, SearchBar, CustomFilter, SearchManufactuer, CarCard, CarDetails }
